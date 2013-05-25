@@ -115,7 +115,6 @@
     <ClInclude Include="DCMDisplayUtil.h" />
     <ClInclude Include="DCMHeaders.h" />
     <ClInclude Include="DCMPatientInfo.h" />
-    <ClInclude Include="haha.h" />
     <ClInclude Include="ImageMatrix.h" />
     <ClInclude Include="MainFrm.h" />
     <ClInclude Include="pList.h" />
