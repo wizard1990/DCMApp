@@ -78,6 +78,9 @@
     <ClInclude Include="DCMConst.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="haha.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DCMApp.cpp">
